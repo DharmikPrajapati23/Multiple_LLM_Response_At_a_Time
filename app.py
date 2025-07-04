@@ -157,3 +157,4 @@ if st.button("Get Answers from LLMs", type="primary"):
                 st.info("Please ensure your Hugging Face API key is valid and the models are accessible.")
 
 st.markdown("---")
+st.markdown("Made by Dharmik")
